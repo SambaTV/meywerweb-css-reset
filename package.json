@@ -1,0 +1,19 @@
+{
+  "name": "meywerweb-css-reset",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SambaTV/meywerweb-css-reset.git"
+  },
+  "author": "",
+  "license": "NOLICENSE",
+  "bugs": {
+    "url": "https://github.com/SambaTV/meywerweb-css-reset/issues"
+  },
+  "homepage": "https://github.com/SambaTV/meywerweb-css-reset#readme"
+}
